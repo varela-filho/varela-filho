@@ -1,7 +1,7 @@
 
 ## Hi there, I'am Ricardo Varela (varela-filho)
-- 💼 I'm currently working at Força Aérea Brasileira (FAB)
-- 💻 I'm currently studying Data Science
+- 💼 I graduated from ITA's postgraduate data science course in 2024.
+- 💻 I'm currently applying for a data scientist role
 - 😄 Pronouns: ele/dele (He/His)
 
 <div align="center">

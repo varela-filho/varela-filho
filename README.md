@@ -4,7 +4,7 @@
 - 💻 I'm currently applying for a data scientist role
 - 😄 Pronouns: ele/dele (He/His)
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/varela-filho">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varela-filho&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
